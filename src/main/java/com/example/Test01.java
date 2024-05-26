@@ -7,4 +7,7 @@ public class Test01 {
         System.out.println("ssss");
         System.out.println("写错分支了");
     }
+
+    public void test(){
+    }
 }
